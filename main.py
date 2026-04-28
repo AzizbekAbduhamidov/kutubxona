@@ -31,3 +31,7 @@ with open("result.txt", "w") as f:
     f.write("Eng ko‘p sahifali: " + kitob_max + " " + str(max_sahifa) + "\n")
     f.write("Eng kam sahifali: " + kitob_min + " " + str(min_sahifa) + "\n")
     f.write("Eng ko‘p o‘qilgan: " + kitob_kop + " " + str(eng_kop_oqilgan))
+# Kutubxona loyihasida kitoblar text faylida kitoblar nomi,sahifasi,foydalanganlar soni berilgan.
+# Dasturda foydalanuvchidan unga kerak bo'lgan kitob nomini so'raydi va kitob nomi, sahifasi va foydalanuvchilar soni haqida malumot chiqaradi.
+# Undan so'ng eng ko'p va kam sahifali kitob va eng ko'p o'qilgan kitoblarni chiqarib beradi.
+# Natijalarni yangi result text fayliga saqlaydi.
