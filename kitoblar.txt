@@ -1,0 +1,15 @@
+Xamsa,440,30
+Boburnoma,400,25
+O‘tkan kunlar,320,100
+Mehrobdan chayon,280,85
+Kecha va kunduz,300,82
+Sariq devni minib,180,245
+Ufq,350,120
+Ikki eshik orasi,400,72
+Dunyoning ishlari,220,67
+Shum bola,200,224
+Alpomish,150,79
+Temur tuzuklari,260,56
+Zulmat ichra nur,210,45
+Oq kema,230,89
+Bahor qaytmaydi,240,93
